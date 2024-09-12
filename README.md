@@ -9,3 +9,4 @@
 4. start python code ```python3 parse.py```
 
                                                                                  Хорошего дня
+![Screenshot from 2024-09-12 18-41-16](https://github.com/user-attachments/assets/c328b9ef-9a57-446f-bf79-9481eaf8796a)
